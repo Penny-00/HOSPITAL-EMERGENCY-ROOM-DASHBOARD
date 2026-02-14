@@ -21,6 +21,8 @@ The goal of this dashboard is to provide hospital decision-makers with actionabl
 
 - ~50% admission rate
 
+---
+
 ### 🎯 Business Problem
 
 Emergency departments operate in high-pressure environments where inefficiencies directly impact patient outcomes and satisfaction.
@@ -40,6 +42,8 @@ This project answers the following operational questions:
 
 The objective is to support data-driven staffing and operational decisions.
 
+---
+
 ### 📊 Dashboard Preview
 
 #### Consolidated View
@@ -55,6 +59,7 @@ The objective is to support data-driven staffing and operational decisions.
 #### Key Takeaways
 ![Key Takeaways](images/dashboard_keytakeaways.png)
 
+---
 
 ### 📊 Dataset Overview
 
@@ -79,6 +84,8 @@ The dataset contains **9,216 ER visit records** over a 19-month period.
 - Satisfaction score (1–10 scale)
 
 The data supports time-based, demographic, and operational KPI analysis.
+
+---
 
 ### 🧠 Analytical Approach
 
@@ -130,6 +137,7 @@ The dashboard was built using Power BI, focusing on descriptive and operational 
 
 - Executive-level dashboard storytelling
 
+---
 
 ### 🔎 Key Insights
 #### ⏱ Patient Flow & Wait Time
@@ -186,6 +194,8 @@ The near-even distribution suggests balanced ER case severity and resource deman
 
 Musculoskeletal and general cases form a large portion of workload.
 
+---
+
 ### 👥 Demographic Insights
 
 Largest age group: **30–39 years (1,200 patients)**
@@ -196,6 +206,8 @@ Largest racial group: White (2,571), followed by African American (1,951)
 
 The ER serves a diverse patient population across age and race.
 
+---
+
 ### ⭐ Patient Satisfaction
 
 - Average satisfaction score: **4.99 / 10**
@@ -203,6 +215,8 @@ The ER serves a diverse patient population across age and race.
 - Suggests moderate patient experience levels
 
 - Likely influenced by wait times during peak hours
+
+---
 
 ### 📅 Monthly Drill-Down Capability
 
@@ -226,6 +240,8 @@ Example (November 2023):
 
 This enables seasonal and performance trend comparison.
 
+---
+
 ### 📈 Business Recommendations
 
 Based on the analysis:
@@ -240,6 +256,8 @@ Based on the analysis:
 
 - Consider fast-track pathways for non-admission cases
 
+---
+
 ### 🛠 Tools & Technologies
 
 - Power BI
@@ -251,6 +269,8 @@ Based on the analysis:
 - KPI Framework Design
 
 - Healthcare Operational Analytics
+
+---
 
 ### 💡 Skills Demonstrated
 
@@ -265,6 +285,8 @@ Based on the analysis:
 - Operational insight extraction
 
 - Data storytelling for decision-makers
+
+---
 
 ### 🚀 Project Value
 
