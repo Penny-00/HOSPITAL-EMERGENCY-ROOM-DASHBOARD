@@ -40,6 +40,22 @@ This project answers the following operational questions:
 
 The objective is to support data-driven staffing and operational decisions.
 
+### 📊 Dashboard Preview
+
+#### Consolidated View
+![Consolidated View](images/dashboard_consolidate.png)
+
+---
+
+#### Monthly Drill-Down View
+![Monthly View](images/dashboard_monthly.png)
+
+---
+
+#### Key Takeaways
+![Key Takeaways](images/dashboard_keytakeaways.png)
+
+
 ### 📊 Dataset Overview
 
 The dataset contains **9,216 ER visit records** over a 19-month period.
